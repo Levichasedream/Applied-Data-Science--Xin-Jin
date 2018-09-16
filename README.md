@@ -1,2 +1,4 @@
 # Applied-Data-Science--Xin-Jin
-Homework
+Uni: xj2215
+Name: Xin Jin 
+Abstraction: 
